@@ -23,7 +23,6 @@ dice-game/
 ├── index.html
 ├── index.js
 
-
 ## 🛠️ Tech Used
 
 - HTML
