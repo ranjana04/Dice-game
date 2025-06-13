@@ -10,7 +10,7 @@ This is a simple dice game built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-👉 [Click here to play](https://ranjana04.github.io/dice-game/)
+👉 [Click here to play](https://ranjana04.github.io/Dice-game/)
 
 ## 📁 Project Structure
 dice-game/
